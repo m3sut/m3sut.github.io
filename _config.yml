@@ -28,14 +28,14 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography will be written here"
   location         : "Adana, Turkey"
-  employer         : "Adana Alparslan Türkeş Science and Technology University"
+  employer         : "Adana A. T. Science and Tech.University"
   uri              : # URL
   email            : "mkarakoc@atu.edu.tr" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-4333-433X"
