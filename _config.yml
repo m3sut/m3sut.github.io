@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography will be written here"
   location         : "Adana, Turkey"
-  employer         : "Adana Alparslan Türkeş Science and technology University"
+  employer         : "Adana Alparslan Türkeş Science and Technology University"
   uri              : # URL
   email            : "mkarakoc@atu.edu.tr" 
 
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4333-433X"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
