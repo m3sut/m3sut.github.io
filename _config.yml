@@ -24,13 +24,13 @@ repository               : ""
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mesut"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Short biography will be written here"
+  location         : "Adana, Turkey"
+  employer         : "Adana Alparslan Türkeş Science and technology University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mkarakoc@atu.edu.tr" 
 
   # Academic websites
   academia         : # URL
